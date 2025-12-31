@@ -15,3 +15,12 @@ yarn init
 
 FOR IMPORTING KAFKA PACKAGE IN JS:
 yarn add kafkajs
+
+Run Multiple Consumers
+node consumer.js <GROUP_NAME>
+
+Create Producer
+node producer.js
+
+> tony south
+> tony north
