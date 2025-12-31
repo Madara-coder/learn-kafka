@@ -1,0 +1,11 @@
+{
+  "name": "learn-kafka",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Madara-coder/learn-kafka.git",
+  "author": "Debrath Sharma <debrathss@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "kafkajs": "^2.2.4"
+  }
+}
